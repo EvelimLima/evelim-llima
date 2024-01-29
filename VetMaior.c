@@ -1,13 +1,11 @@
 #include <stdio.h>
-
+//função para receber vetores e procurar o maior
 int vetorM(int vetor[], int qtd)
 {
     int maior = 0;
 
     for(int i = 0; i < qtd; i++)
     {
-            printf(" %d ee \n", vetor[i]);
-
         if(i == 0)
         {
             maior = vetor[i];
@@ -37,6 +35,5 @@ int main(void)
 
   printf("\nMaior valor eh: %d\n", v);
 
-//erro na saída de maior
     return 0;
 }

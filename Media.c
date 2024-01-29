@@ -17,7 +17,7 @@ int main(void){
 
     int tamanho = 4;
     float notas[tamanho];
-    float soma = 0, media = 0;
+    float media = 0;
 
     printf("Informe notas:\n");
 

@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//receber vetores, somar, troca e exibe
 int main(void)
 {
     int vet[6], cont =0;

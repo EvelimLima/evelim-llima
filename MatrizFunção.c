@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//só um valor basta para precorrer a matriz
 void imprimeMat(int matriz[][3], int tm)
 {
     

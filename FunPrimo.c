@@ -22,6 +22,8 @@ int Primo(int x)
 
     }
 
+    return divi;
+
 }
 
 int main(void)
